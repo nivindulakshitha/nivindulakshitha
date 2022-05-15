@@ -1,7 +1,7 @@
 # Hey there, I'm Nivindu 👋🏻
 ![Logo](https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/280749533_1167558704030094_2919487091226630829_n.jpg?_nc_cat=106&ccb=1-6&_nc_sid=730e14&_nc_ohc=7vCxtf7f6y4AX_JTZv_&_nc_ht=scontent.fcmb2-2.fna&oh=00_AT8F4i-9WDRWcM5GNLzETosmHCZFe1uGmp_jjLDl9EZWJA&oe=62852B37)
 
-I'm currently a technologist at [university of SJP](https://www.sjp.ac.lk/), Sri Lanka and a software programmer who is dreaming to be a full-stack developer and passionate about making contributing to open-source more accessible, creating technologies to elevate people. Some technologies I enjoy working with include awesome modules and libraries in languages that I really like to prefer. Parallelly, I do learn this field going through software designing, new technologies, cloning currently popular apps around the world, preferring language-oriented books and so on.
+I'm currently a technologist at the [University of SJP](https://www.sjp.ac.lk/), Sri Lanka and a software programmer who is dreaming to be a full-stack developer and passionate about making contributing to open-source more accessible, creating technologies to elevate people. Some technologies I enjoy working with include awesome modules and libraries in languages that I really like to prefer. Parallelly, I do learn this field going through software designing, new technologies, cloning currently popular apps around the world, preferring language-oriented books and so on.
 ## 🛠 Skills
 1. Front-End
 - HTML, CSS with Javascript DOM
