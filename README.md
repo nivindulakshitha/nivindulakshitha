@@ -1,5 +1,5 @@
 # Hey there, I'm Nivindu! 👋🏻
-![Hey it's me!](https://drive.google.com/uc?export=download&id=1djxbF2FUdXjYlt4caAK1z13aPkgeQatd)
+![Hey it's me!](https://github.com/coding-desk20/coding-desk20/blob/main/images/banner.png?raw=true)
 
 I'm currently a technologist at the [University of SJP](https://www.sjp.ac.lk/), Sri Lanka and a software programmer who is dreaming to be a full-stack developer and passionate about making contributing to open-source more accessible, creating technologies to elevate people. Some technologies I enjoy working with include awesome modules and libraries in languages that I really like to prefer. Parallelly, I do learn this field going through software designing, new technologies, cloning currently popular apps around the world, preferring language-oriented books and so on.
 
