@@ -24,7 +24,5 @@ I'm currently a technologist at the [University of SJP](https://www.sjp.ac.lk/),
 
 [![twitter](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLlJNHqLbH8DqkpNgAhA8Gg)
 
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nividu.lakshika.52)
-
 ## 🐱 My Github
 [![](https://visitcount.itsvg.in/api?id=coding-desk20&label=Profile%20Views&icon=5&pretty=true)](https://github.com/coding-desk20/)
