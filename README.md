@@ -22,7 +22,7 @@ I'm currently a technologist at the [University of SJP](https://www.sjp.ac.lk/),
 ## 🌎 Reach me around the web
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivindu-lakshitha-b6448723a/)
 
-[![twitter](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLlJNHqLbH8DqkpNgAhA8Gg)
+[![twitter](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ximply/)
 
 ## 🐱 My Github
-[![](https://visitcount.itsvg.in/api?id=codingdesk-dev&label=Profile%20Views&icon=5&pretty=true)](https://github.com/codingdesk-dev)
+[![](https://visitcount.itsvg.in/api?id=codingdesk-dev&label=Profile%20Views&icon=5&pretty=true)](https://github.com/codingdesk-dev/)
