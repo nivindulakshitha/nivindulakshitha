@@ -25,4 +25,4 @@ I'm currently a technologist at the [University of SJP](https://www.sjp.ac.lk/),
 [![twitter](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLlJNHqLbH8DqkpNgAhA8Gg)
 
 ## 🐱 My Github
-[![](https://visitcount.itsvg.in/api?id=coding-desk20&label=Profile%20Views&icon=5&pretty=true)](https://github.com/coding-desk20/)
+[![](https://visitcount.itsvg.in/api?id=codingdesk-dev&label=Profile%20Views&icon=5&pretty=true)](https://github.com/codingdesk-dev)
