@@ -1,7 +1,11 @@
 # Hey there, I'm Nivindu! 👋🏻
 ![Hey it's me!](https://github.com/coding-desk20/coding-desk20/blob/main/images/banner.png?raw=true)
 
-I'm currently a technologist at the [University of SJP](https://www.sjp.ac.lk/), Sri Lanka and a software programmer who is dreaming to be a full-stack developer and passionate about making contributing to open-source more accessible, creating technologies to elevate people. Some technologies I enjoy working with include awesome modules and libraries in languages that I really like to prefer. Parallelly, I do learn this field going through software designing, new technologies, cloning currently popular apps around the world, preferring language-oriented books and so on.
+I am a dedicated technologist currently working at the [University of Sri Jayewardenepura](https://www.sjp.ac.lk/) in Sri Lanka. As a software programmer, I am constantly striving to become a full-stack developer, and my passion lies in contributing to open-source projects that make technology more accessible and help elevate people's lives.
+
+I am deeply fascinated by the possibilities of programming and enjoy working with a wide range of awesome modules and libraries, particularly in languages that I find myself drawn to. My passion for this field also extends to constantly learning new software designing concepts and exploring the latest technologies in the industry.
+
+In addition to my programming work, I also enjoy taking on projects such as cloning popular apps from around the world and exploring language-oriented books to further broaden my horizons. My ultimate goal is to create innovative technologies that make a positive impact on society, and I am excited to continue my journey in this dynamic and ever-evolving field.
 
 ## 🛠 Skills
 1. Front-End
