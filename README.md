@@ -1,7 +1,7 @@
 # Hey there, I'm Nivindu! 👋🏻
 ![Hey it's me!](https://github.com/coding-desk20/coding-desk20/blob/main/images/banner.png?raw=true)
 
-I am a dedicated technologist currently working at the [University of Sri Jayewardenepura](https://www.sjp.ac.lk/) in Sri Lanka. As a software programmer, I am constantly striving to become a full-stack developer, and my passion lies in contributing to open-source projects that make technology more accessible and help elevate people's lives.
+I am an undergraduate at the [University of Sri Jayewardenepura](https://www.sjp.ac.lk/) in Sri Lanka. As a software programmer, I am constantly striving to become a full-stack developer, and my passion lies in contributing to open-source projects that make technology more accessible and help elevate people's lives.
 
 I am deeply fascinated by the possibilities of programming and enjoy working with a wide range of awesome modules and libraries, particularly in languages that I find myself drawn to. My passion for this field also extends to constantly learning new software designing concepts and exploring the latest technologies in the industry.
 
