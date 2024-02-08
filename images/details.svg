@@ -10,6 +10,13 @@
                 0% { opacity: 0; }
                 100% { opacity: 1; }
             }
+            text {
+              fill: #555 !important;
+            }
+          
+          text.blue {
+            fill: #4894e0 !important;
+          }
         </style>
         <defs>
             <clipPath id='outer_rectangle'>
@@ -23,7 +30,7 @@
         </defs>
         <g clip-path='url(#outer_rectangle)'>
             <g style='isolation: isolate'>
-                <rect stroke='#000000' stroke-opacity='0' fill='#FFFEFE' rx='4.5' x='0.5' y='0.5' width='494' height='194'/>
+                <rect stroke='#000000' stroke-opacity='0' fill='transparent' rx='4.5' x='0.5' y='0.5' width='494' height='194'/>
             </g>
             <g style='isolation: isolate'>
                 <line x1='165' y1='28' x2='165' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#E4E2E2' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
@@ -32,7 +39,7 @@
             <g style='isolation: isolate'>
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5,48)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
+                    <text x='0' class="blue" y='32' stroke-width='0' text-anchor='middle' fill='#FFF' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
                         278
                     </text>
                 </g>
@@ -54,7 +61,7 @@
             <g style='isolation: isolate'>
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5,48)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
+                    <text class="blue" x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
                         1
                     </text>
                 </g>
@@ -87,7 +94,7 @@
             <g style='isolation: isolate'>
                 <!-- Longest Streak big number -->
                 <g transform='translate(412.5,48)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
+                    <text class="blue" x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
                         4
                     </text>
                 </g>
