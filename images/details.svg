@@ -11,7 +11,7 @@
                 100% { opacity: 1; }
             }
             text {
-              fill: #555 !important;
+              fill: #777 !important;
             }
           
           text.blue {
