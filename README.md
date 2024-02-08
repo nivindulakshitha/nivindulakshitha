@@ -3,12 +3,10 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=codingdesk-dev&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="macropower" align="right" />
 
 > [!IMPORTANT]\
-> 🚀 &nbsp;Tech enthusiast, project builder, and lifelong learner. <br>
-> 💡 &nbsp;Innovator striving for impactful solutions. <br>
-> 💻 &nbsp;Proficient in diverse programming languages and tech stacks. <br>
-> 📚 &nbsp;Dedicated to continuous learning and industry trends. <br>
-> 🌱 &nbsp;Exploring Golang with enthusiasm. <br>
-> ❤️ &nbsp;Active in open-source communities. <br>
-> 🌎 &nbsp;Engaged in global tech collaborations. <br>
-
-<hr>
+> 🚀 &nbsp;Tech enthusiast, project builder, learner. <br>
+> 💡 &nbsp;Innovator striving for impact. <br>
+> 💻 &nbsp;Proficient in diverse tech. <br>
+> 📚 &nbsp;Dedicated to learning and trends. <br>
+> 🌱 &nbsp;Exploring Golang. <br>
+> ❤️ &nbsp;Active in open-source. <br>
+> 🌎 &nbsp;Engaged in tech collaborations. <br>
