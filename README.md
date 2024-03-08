@@ -14,7 +14,7 @@
 
 <img src="https://github-stats-alpha.vercel.app/api?username=codingdesk-dev&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="codingdesk-dev" align="right" height="20%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingdesk-dev&layout=donut&langs_count=5&theme=transparent&hide_border=true&text_color=aaa&title_color=aaa" alt="codingdesk-dev" align="left"  width="20%" height="20%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingdesk-dev&layout=donut&langs_count=5&theme=transparent&hide_border=true&text_color=aaa&title_color=aaa" alt="codingdesk-dev" align="left"  width="35%" height="35%" />
 
 <br><br><br><br><br><br><br><br>
 
