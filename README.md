@@ -1,15 +1,12 @@
 ![Hey it's me!](https://github.com/coding-desk20/coding-desk20/blob/main/images/Banner.png?raw=true)
 
-<img src="https://github-stats-alpha.vercel.app/api?username=codingdesk-dev&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="macropower" align="right" />
+<img src="https://github-stats-alpha.vercel.app/api?username=codingdesk-dev&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="codingdesk-dev" align="right" />
 
-> [!IMPORTANT]\
-> 🚀   &nbsp;Tech enthusiast, project builder, learner. <br>
-> 💡   &nbsp; Innovator striving for impact. <br>
-> 💻  &nbsp;Proficient in diverse tech. <br>
-> 📚  &nbsp;Dedicated to learning and trends. <br>
-> 🌱  &nbsp;Exploring Golang. <br>
-> ❤️  &nbsp;Active in open-source. <br>
-> 🌎  &nbsp;Engaged in tech collaborations. <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingdesk-dev&layout=donut&langs_count=5&theme=transparent&hide_border=true&text_color=aaa&title_color=aaa" alt="codingdesk-dev" align="left" />
+
+<br><br><br><br><br><br><br><br>
+
+
 
 <hr>
 
@@ -48,3 +45,15 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <hr>
+
+> [!IMPORTANT]\
+> 🚀 Tech enthusiast passionate about innovative projects and new learning experiences. <br>
+> 💡 Visionary innovator striving to make a meaningful impact through technology and creative problem-solving. <br>
+> 💻 Highly proficient in various technologies, always eager to master the latest tools and platforms. <br>
+> 📚 Committed to lifelong learning, staying updated on cutting-edge tech trends and advancements. <br>
+> 🌱 Currently exploring Golang's concurrency model and performance benefits. <br>
+> ❤️ Advocate for open-source, promoting collaboration and shared knowledge. <br>
+> 🌎 Actively engaged in global tech collaborations, driving innovation across borders. <br>
+> ✨ Believer in the transformative power of technology, inspiring others through mentorship and community engagement. <br>
+> 🤖 Robotics and AI enthusiast, creating intelligent solutions at the hardware-software intersection. <br>
+> 🚀 Startup enthusiast skilled in transforming ideas into viable products and scaling them for success. <br>
