@@ -1,8 +1,8 @@
 ![Hey it's me!](https://github.com/coding-desk20/coding-desk20/blob/main/images/Banner.png?raw=true)
 
-<img src="https://github-stats-alpha.vercel.app/api?username=codingdesk-dev&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="codingdesk-dev" align="right" />
+<img src="https://github-stats-alpha.vercel.app/api?username=codingdesk-dev&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="codingdesk-dev" align="right" height="20%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingdesk-dev&layout=donut&langs_count=5&theme=transparent&hide_border=true&text_color=aaa&title_color=aaa" alt="codingdesk-dev" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingdesk-dev&layout=donut&langs_count=5&theme=transparent&hide_border=true&text_color=aaa&title_color=aaa" alt="codingdesk-dev" align="left" height="20%" />
 
 <br><br><br><br><br><br><br><br>
 
