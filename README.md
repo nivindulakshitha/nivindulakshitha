@@ -1,8 +1,8 @@
 ![Hey it's me!](https://github.com/coding-desk20/coding-desk20/blob/main/images/Banner.png?raw=true)
 
-<img src="https://github-stats-alpha.vercel.app/api?username=codingdesk-dev&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="codingdesk-dev" align="right" height="20%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="nivindulakshitha" align="right" height="20%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingdesk-dev&layout=donut&langs_count=5&theme=transparent&hide_border=true&text_color=aaa&title_color=aaa" alt="codingdesk-dev" align="left"  width="35%" height="35%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivindulakshitha&layout=donut&langs_count=5&theme=transparent&hide_border=true&text_color=aaa&title_color=aaa" alt="nivindulakshitha" align="left"  width="35%" height="35%" />
 
 <br><br><br><br><br><br><br><br><br>
 <hr>
@@ -25,4 +25,4 @@
 > ✨ Believer in the transformative power of technology, inspiring others through mentorship and community engagement. <br>
 > 🤖 Robotics and AI enthusiast, creating intelligent solutions at the hardware-software intersection. <br>
 > 🚀 Startup enthusiast skilled in transforming ideas into viable products and scaling them for success. <br>
-> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=codingdesk-dev&color=lightgrey&style=for-the-badge" alt="ThrippleK" />
+> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=nivindulakshitha&color=lightgrey&style=for-the-badge" alt="ThrippleK" />
