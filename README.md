@@ -1,4 +1,4 @@
-![Hey it's me!](https://github.com/coding-desk20/coding-desk20/blob/main/images/Banner.png?raw=true)
+![Hey it's me!](https://github.com/nivindulakshitha/nivindulakshitha/blob/7f70c6f283f689a74dc9a5170a87bc6122008977/images/banner.png?raw=true)
 
 <img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="nivindulakshitha" align="right" height="20%" />
 
