@@ -1,4 +1,4 @@
-![Hey it's me!](https://github.com/nivindulakshitha/nivindulakshitha/blob/7f70c6f283f689a74dc9a5170a87bc6122008977/images/banner.png?raw=true)
+![Hey it's me!](https://github.com/nivindulakshitha/nivindulakshitha/blob/35aa5732199ed2ee17f1462ad3a3df91ad89ba21/images/Banner%202.png)
 
 <img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="nivindulakshitha" align="right" height="20%" />
 
