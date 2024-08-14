@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@nivindulakshitha&textBg=false&reversal=false)
-
-![Hey it's me!](https://github.com/nivindulakshitha/nivindulakshitha/blob/35aa5732199ed2ee17f1462ad3a3df91ad89ba21/images/Banner%202.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@nivindulakshitha&textBg=false&reversal=false" width="50%" align="center" />
+  <br>
+  <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/35aa5732199ed2ee17f1462ad3a3df91ad89ba21/images/Banner%202.png" width="100%" align="center" />
+</p>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="nivindulakshitha" align="right" height="20%" />
 
@@ -29,7 +31,7 @@
 > 🚀 Startup enthusiast skilled in transforming ideas into viable products and scaling them for success. <br>
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=nivindulakshitha&color=lightgrey&style=for-the-badge" alt="ThrippleK" />
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
      <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivindulakshitha&theme=github_dark&hide_border=true" align="left"/>
