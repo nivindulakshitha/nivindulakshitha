@@ -14,7 +14,7 @@
 <hr>
 
 
-> [!IMPORTANT]\
+> [!NOTE]\
 > 🚀 Tech enthusiast passionate about innovative projects and new learning experiences. <br>
 > 💡 Visionary innovator striving to make a meaningful impact through technology and creative problem-solving. <br>
 > 💻 Highly proficient in various technologies, always eager to master the latest tools and platforms. <br>
@@ -27,7 +27,6 @@
 > 🚀 Startup enthusiast skilled in transforming ideas into viable products and scaling them for success. <br>
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=nivindulakshitha&color=lightgrey&style=for-the-badge" alt="ThrippleK" />
 
-> [!NOTE]\
-> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivindulakshitha&theme=github_dark&hide_border=true" align="left" width="100%"/>
-> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=github_dark&utcOffset=8" />
-> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivindulakshitha&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivindulakshitha&theme=github_dark&hide_border=true" align="left" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=github_dark&utcOffset=8" align="right" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivindulakshitha&theme=github_dark" align="center" />
