@@ -34,6 +34,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivindulakshitha&theme=transparent&hide_border=true" align="left" width="100%"/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=transparent"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivindulakshitha&theme=transparent"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=transparent" width="33%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivindulakshitha&theme=transparent" width="33%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivindulakshitha&theme=transparent" width="33%"/>
 </p>
