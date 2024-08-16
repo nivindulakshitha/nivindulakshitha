@@ -33,7 +33,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivindulakshitha&theme=transparent&hide_border=true" align="left" width="100%"/>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=transparent&utcOffset=8"/>
+<p align="">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivindulakshitha&theme=transparent"/>
 </p>
