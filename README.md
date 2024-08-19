@@ -12,7 +12,7 @@
 <hr>
 <center>
 
-<img src="https://skillicons.dev/icons?i=java,cs,electron,npm,dotnet,tailwindcss,angular,azure,aws,bootstrap,c,cpp,css,express,flask,googlecloud,git,html,js,ubuntu,mongodb,mysql,nodejs,php,python,qt,postman,react,sass,svg,typescript,sqlite,stackoverflow,ae,anaconda,androidstudio,arduino,atom,devto,django,eclipse,ai,linkedin,md,nextjs,ps" alt="Programming Languages and Tools" title="Programming Languages and Tools" align="center"/>
+<img src="https://skillicons.dev/icons?i=java,cs,electron,npm,dotnet,tailwindcss,angular,azure,aws,bootstrap,c,cpp,css,express,flask,googlecloud,git,html,js,ubuntu,mongodb,mysql,nodejs,php,python,qt,postman,react,sass,svg,typescript,sqlite,stackoverflow,ae,anaconda,androidstudio,arduino,atom,devto,django,ai,linkedin,md,nextjs,ps" alt="Programming Languages and Tools" title="Programming Languages and Tools" align="center"/>
 
 </center>
 <hr>
