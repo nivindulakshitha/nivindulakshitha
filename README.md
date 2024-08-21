@@ -37,5 +37,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=transparent" width="33%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivindulakshitha&theme=transparent" width="33%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivindulakshitha&theme=transparent" width="33%"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"/>
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"/>
 </p>
