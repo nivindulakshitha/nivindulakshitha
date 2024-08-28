@@ -40,5 +40,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivindulakshitha&theme=transparent" width="33%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivindulakshitha&theme=transparent" width="33%"/>
   <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivindulakshitha&bg_color=0d1117&color=006aff&line=006aff&point=ffffff&area=true&hide_border=true"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"/>
 </p>
