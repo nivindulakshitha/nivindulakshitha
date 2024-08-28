@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@nivindulakshitha&textBg=false&reversal=false&descAlign=0&animation=twinkling&stroke=010409&descAlignY=0&strokeWidth=0&section=header" width="40%" align="center" />
   <br>
-  <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/c0f22298eea048bb52a2968e7ddff9df26c1a882/images/Banner%205.png?raw=true" width="100%" align="center" />
+  <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/206b2f7c307d6bce048cc55c491fc186cf412f1a/images/Banner%205.png" width="100%" align="center" />
 </p>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" alt="nivindulakshitha" align="right" height="20%" />
