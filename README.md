@@ -17,18 +17,17 @@
 </center>
 <hr>
 
-
 > [!NOTE]\
-> 🚀 Tech enthusiast passionate about innovative projects and new learning experiences. <br>
-> 💡 Visionary innovator striving to make a meaningful impact through technology and creative problem-solving. <br>
-> 💻 Highly proficient in various technologies, always eager to master the latest tools and platforms. <br>
-> 📚 Committed to lifelong learning, staying updated on cutting-edge tech trends and advancements. <br>
+> 🚀 Enthusiast of technology in projects with innovations and new learning. <br>
+> 💡 A visionary innovator who drives meaningful outcomes through technology and creative problem-solving. <br>
+> 💻 Highly proficient in various technologies, eager to learn and be updated with the latest tools and platforms. <br>
+> 📚 Committed to lifelong learning and keeping abreast of state-of-the-art technology trends and developments. <br>
 > 🌱 Currently exploring Golang's concurrency model and performance benefits. <br>
-> ❤️ Advocate for open-source, promoting collaboration and shared knowledge. <br>
-> 🌎 Actively engaged in global tech collaborations, driving innovation across borders. <br>
+> ❤️ Support open-source, encouraging teamwork and shared knowledge. <br>
+> 🌎 Engaged in active tech collaboration across the world, driving innovation. <br>
 > ✨ Believer in the transformative power of technology, inspiring others through mentorship and community engagement. <br>
-> 🤖 Robotics and AI enthusiast, creating intelligent solutions at the hardware-software intersection. <br>
-> 🚀 Startup enthusiast skilled in transforming ideas into viable products and scaling them for success. <br>
+> 🤖 Robotics and AI enthusiast. Building intelligent solutions by considering hardware-software intersection. <br>
+> 🚀 Startup enthusiast with core skills in transforming ideas into viable products and scaling them for success. <br>
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=nivindulakshitha&color=blue&style=for-the-badge" alt="ThrippleK" />
 
 <hr>
