@@ -24,7 +24,7 @@
 > 🌱 Currently exploring Golang's concurrency model and performance benefits. <br>
 > 🤖 Robotics and AI enthusiast. Building intelligent solutions by considering hardware-software intersection. <br>
 > 🚀 Startup enthusiast with core skills in transforming ideas into viable products and scaling them for success. <br>
-> 💡 A visionary innovator who drives meaningful outcomes through technology and creative problem-solving. <br>
+> 💡  A visionary innovator who drives meaningful outcomes through technology and creative problem-solving. <br>
 > 💻 Highly proficient in various technologies, eager to learn and be updated with the latest tools and platforms. <br>
 > 📚 Committed to lifelong learning and keeping abreast of state-of-the-art technology trends and developments. <br>
 > ✨ Believer in the transformative power of technology, inspiring others through mentorship and community engagement. <br>
