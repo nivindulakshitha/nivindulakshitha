@@ -28,7 +28,7 @@
 > 💻 Highly proficient in various technologies, eager to learn and be updated with the latest tools and platforms. <br>
 > 📚 Committed to lifelong learning and keeping abreast of state-of-the-art technology trends and developments. <br>
 > ✨ Believer in the transformative power of technology, inspiring others through mentorship and community engagement. <br>
-> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=nivindulakshitha&color=blue&style=for-the-badge" alt="ThrippleK" />
+> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=nivindulakshitha&color=1f6feb&style=for-the-badge&label=PROFILE+VISITS" alt="ThrippleK" />
 
 <hr>
 
