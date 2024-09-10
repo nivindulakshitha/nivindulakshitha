@@ -42,3 +42,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivindulakshitha&bg_color=0d1117&color=006aff&line=006aff&point=ffffff&area=true&hide_border=true"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"/>
 </p>
+<hr>
