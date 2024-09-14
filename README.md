@@ -12,7 +12,7 @@
 <hr>
 <center>
 
-<img src="https://skillicons.dev/icons?i=java,cs,electron,npm,dotnet,tailwindcss,angular,azure,aws,bootstrap,c,cpp,css,express,flask,googlecloud,git,html,js,ubuntu,mongodb,mysql,nodejs,php,python,qt,postman,react,sass,svg,typescript,sqlite,stackoverflow,ae,anaconda,androidstudio,arduino,atom,devto,django,ai,linkedin,md,nextjs,ps" alt="Programming Languages and Tools" title="Programming Languages and Tools" align="center"/>
+<img src="https://skillicons.dev/icons?i=java,cs,electron,npm,dotnet,tailwindcss,angular,azure,aws,bootstrap,c,cpp,css,express,flask,googlecloud,git,html,js,ubuntu,mongodb,mysql,nodejs,php,python,qt,postman,react,sass,svg,typescript,sqlite,stackoverflow,ae,anaconda,androidstudio,arduino,atom,devto,django,ai,linkedin,md,nextjs,ps" alt="Programming Languages and Tools" title="Programming Languages and Tools" align="center" width="100%"/>
 
 </center>
 <hr>
@@ -40,5 +40,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivindulakshitha&theme=transparent" width="33%"/>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivindulakshitha&bg_color=0d1117&color=006aff&line=006aff&point=ffffff&area=true&hide_border=true"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"/>
 </p>
+
+> [!TIP]\
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" align="center"/>
+
