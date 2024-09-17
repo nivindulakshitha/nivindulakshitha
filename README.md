@@ -44,5 +44,4 @@
 
 > [!TIP]\
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" align="center"/>
-> Always be better version of yourself!
 
