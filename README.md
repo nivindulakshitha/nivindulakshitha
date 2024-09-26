@@ -41,7 +41,7 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivindulakshitha&bg_color=0d1117&color=006aff&line=006aff&point=ffffff&area=true&hide_border=true"/>
 </p>
+<img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/6e525175cac8da07024331264ca12040b509f643/images/Brain.gif" align="right"/>
 
 > [!TIP]\
-> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" align="center"/>
-
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" align="left"/>
