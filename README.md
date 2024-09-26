@@ -18,16 +18,7 @@
 <hr>
 
 > [!NOTE]\
-> ❤️ Support open-source, encouraging teamwork and shared knowledge. <br>
-> 🚀 Enthusiast of technology in projects with innovations and new learning. <br>
-> 🌎 Engaged in active tech collaboration across the world, driving innovation. <br>
-> 🌱 Currently exploring Golang's concurrency model and performance benefits. <br>
-> 🤖 Robotics and AI enthusiast. Building intelligent solutions by considering hardware-software intersection. <br>
-> 🚀 Startup enthusiast with core skills in transforming ideas into viable products and scaling them for success. <br>
-> 💡  A visionary innovator who drives meaningful outcomes through technology and creative problem-solving. <br>
-> 💻 Highly proficient in various technologies, eager to learn and be updated with the latest tools and platforms. <br>
-> 📚 Committed to lifelong learning and keeping abreast of state-of-the-art technology trends and developments. <br>
-> ✨ Believer in the transformative power of technology, inspiring others through mentorship and community engagement. <br>
+> I'm a passionate advocate for open-source collaboration and teamwork, always excited about innovation and new learning. Actively involved in global tech projects, I’m currently diving into Golang’s concurrency model to explore its performance benefits. I have a strong interest in robotics and AI, where I focus on building smart solutions by bridging hardware and software. As a startup enthusiast, I thrive on turning ideas into scalable products. I'm always eager to learn and stay updated on the latest technologies, and I believe in the power of tech to inspire and create meaningful change through mentorship and community engagement. <br/>
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=nivindulakshitha&color=1f6feb&style=for-the-badge&label=PROFILE+VISITS" alt="ThrippleK" />
 
 <hr>
