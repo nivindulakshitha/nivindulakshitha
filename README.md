@@ -44,4 +44,4 @@
 <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/6e525175cac8da07024331264ca12040b509f643/images/Brain.gif" align="right"/>
 
 > [!TIP]\
-> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" align="left"/>
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"/>
