@@ -18,7 +18,8 @@
 <hr>
 
 > [!NOTE]\
-> I'm a passionate advocate for open-source collaboration and teamwork, always excited about innovation and new learning. Actively involved in global tech projects, I’m currently diving into Golang’s concurrency model to explore its performance benefits. I have a strong interest in robotics and AI, where I focus on building smart solutions by bridging hardware and software. As a startup enthusiast, I thrive on turning ideas into scalable products. I'm always eager to learn and stay updated on the latest technologies, and I believe in the power of tech to inspire and create meaningful change through mentorship and community engagement. <br/> <br/>
+> Hi, I'm Nivindu Lakshitha, a passionate software developer and technology enthusiast pursuing my degree at the Faculty of Technology, University of Sri Jayewardenepura. I specialize in JavaScript, Node.js, Express, and MongoDB, with a strong focus on building efficient and scalable web applications.
+> I’m always looking for ways to improve my skills, especially in UI/UX design, and I enjoy working on projects that solve real-world problems, both in the tech space and within the community. I'm excited about collaborating on innovative projects, so feel free to reach out! <br/> <br/>
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22"> <img src="https://komarev.com/ghpvc/?username=nivindulakshitha&color=1f6feb&style=for-the-badge&label=PROFILE+VISITS" alt="ThrippleK" />
 
 <hr>
