@@ -34,35 +34,35 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivindulakshitha&bg_color=0d1117&color=006aff&line=006aff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=8yoxg5xddyttm7t0u2cozz3bb&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://www.linkedin.com/in/nivindu-lakshitha/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/nividulakshitha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/nivindulakshitha/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
+  </a>
+  <a href="nivindulakshitha@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  </a>
+  <a href="ict21813@fot.sjp.ac.lk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="55" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nivindulakshitha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="55" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://wa.me/+94766122495" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/11021009/nividu-lakshika" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="40" alt="stackoverflow logo"  />
+  </a>
+</div>
+
 <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/9474209663ce0b6a27b61cfb24c8ddf06094406d/images/Brain%202.gif" align="right"/>
 
 > [!TIP]\
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"/>
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=8yoxg5xddyttm7t0u2cozz3bb&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-  <a href="https://www.linkedin.com/in/nivindu-lakshitha/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/nividulakshitha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="74" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/nivindulakshitha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="74" height="40" alt="facebook logo"  />
-  </a>
-  <a href="nivindulakshitha@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="40" alt="gmail logo"  />
-  </a>
-  <a href="ict21813@fot.sjp.ac.lk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="74" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/nivindulakshitha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="74" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://wa.me/+94766122495" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="74" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/11021009/nividu-lakshika" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="74" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
