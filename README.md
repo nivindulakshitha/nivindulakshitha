@@ -35,7 +35,7 @@
 </p>
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=8yoxg5xddyttm7t0u2cozz3bb&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=8yoxg5xddyttm7t0u2cozz3bb&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" />
   <a href="https://www.linkedin.com/in/nivindu-lakshitha/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
   </a>
