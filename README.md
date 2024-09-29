@@ -40,7 +40,7 @@
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"/>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=8yoxg5xddyttm7t0u2cozz3bb&count=1&unique=yes&width=300" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=8yoxg5xddyttm7t0u2cozz3bb&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" />
   <a href="https://www.linkedin.com/in/nivindu-lakshitha/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="40" alt="linkedin logo"  />
   </a>
