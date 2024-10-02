@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@nivindulakshitha&textBg=false&reversal=false&descAlign=0&animation=twinkling&stroke=010409&descAlignY=0&strokeWidth=0&section=header" width="40%" align="center" alt="You did not get it right?" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@nivindulakshitha&textBg=false&reversal=false&descAlign=0&animation=twinkling&stroke=010409&descAlignY=0&strokeWidth=0&section=header" width="35%" align="center" alt="You did not get it right?" />
   <br>
   <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/42e95a8adbdb81b16a214d5f130c1c969053890c/images/Banner%206.png" width="100%" align="center"  alt="You did not get it right?"/>
 </p>
