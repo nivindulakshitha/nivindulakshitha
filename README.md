@@ -44,5 +44,5 @@
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="You did not get it right?"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/demo/?font=Noto+Sans&weight=500&size=18&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=518&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+%E2%AD%90+some+of+the+repositories!" alt="You did not get it right?" />
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=518&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+%E2%AD%90+some+of+the+repositories!" alt="You did not get it right?" />
 </div>
