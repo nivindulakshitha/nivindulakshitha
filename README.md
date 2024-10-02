@@ -43,6 +43,6 @@
 > [!TIP]\
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="You did not get it right?"/>
 
-<p aligh="center">
+<div aligh="center">
   ### Show some ❤️ by starring ⭐ some of the repositories!
-</p>
+</div>
