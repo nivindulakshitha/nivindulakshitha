@@ -45,5 +45,5 @@
 </br>
  
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&height=40&lines=Reach+me+via+above+links+%F0%9F%94%97+glad+to+working+together!;Show+some+love+by+starring+%E2%AD%90+some+of+the+repositories+below!" alt="You did not get it right?" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&height=40&lines=Reach+me+via+above+links+%F0%9F%94%97+%2C+glad+to+working+together!;Fork%2C+Commit+%26+Pull+valuable+%F0%9F%92%8E+collaborations+are+warmly+welcomed!;Show+some+love+by+starring+%E2%AD%90+some+of+the+repositories+below!" alt="You did not get it right?" />
 </div>
