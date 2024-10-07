@@ -34,7 +34,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivindulakshitha&bg_color=0d1117&color=006aff&line=006aff&point=ffffff&area=true&hide_border=true" alt="You did not get it right?"/>
 </p>
 
-<img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/9474209663ce0b6a27b61cfb24c8ddf06094406d/images/Brain%202.gif" align="right" alt="You did not get it right?"/>
+<img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/0050eeb8010dbcac349fa74d9d091df211c08d28/images/Plant.gif" align="right" width="25%" alt="You did not get it right?"/>
 
 > [!TIP]\
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="You did not get it right?"/>
