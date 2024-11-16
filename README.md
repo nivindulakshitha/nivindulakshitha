@@ -6,7 +6,7 @@
 
 <img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" align="right" height="20%"  alt="You did not get it right?"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivindulakshitha&theme=transparent" align="left"  width="35%" height="35%"  alt="You did not get it right?"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivindulakshitha&theme=transparent&exclude=CSS,html,Jupyter%20Notebook" align="left"  width="35%" height="35%"  alt="You did not get it right?"/>
 
 <br><br><br><br><br><br><br><br><br>
 <hr>
@@ -27,9 +27,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivindulakshitha&theme=transparent&hide_border=true" align="left" width="100%" alt="You did not get it right?"/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=transparent" width="33%" alt="You did not get it right?"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivindulakshitha&theme=transparent&utcOffset=5.30" width="33%" alt="You did not get it right?"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivindulakshitha&theme=transparent" width="33%" alt="You did not get it right?"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivindulakshitha&theme=transparent" width="33%" alt="You did not get it right?"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivindulakshitha&theme=transparent&exclude=CSS,html,Jupyter%20Notebook" width="33%" alt="You did not get it right?"/>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivindulakshitha&bg_color=0d1117&color=006aff&line=006aff&point=ffffff&area=true&hide_border=true" alt="You did not get it right?"/>
 </p>
