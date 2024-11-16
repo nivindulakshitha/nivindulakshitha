@@ -45,8 +45,9 @@
 </br>
 
 ## My Top 10 Contributors
-> [!NOTE]\
-> <img src="https://my-crews.vercel.app/api/crew?username=nivindulakshitha" />
+<div align="center">
+<img src="https://my-crews.vercel.app/api/crew?username=nivindulakshitha" />
+</div>
 
 </br>
  
