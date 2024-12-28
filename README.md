@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@nivindulakshitha&textBg=false&reversal=false&descAlign=0&animation=twinkling&stroke=010409&descAlignY=0&strokeWidth=0&section=header" width="37%" align="center" alt="You did not get it right?" />
   <br>
-  <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/89cd484fc47d9921e3b23810c781166096c15b00/images/Banner%207.png" width="100%" align="center"  alt="You did not get it right?"/>
+  <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/3e5b4333debc31cf62c8fa04ca1085085c60d0d0/images/Banner%208.png" width="100%" align="center"  alt="You did not get it right?"/>
 </p>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" align="right" height="20%"  alt="You did not get it right?"/>
