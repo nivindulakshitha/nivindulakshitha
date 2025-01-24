@@ -12,7 +12,7 @@
 <hr>
 <center>
 
-<img src="https://skillicons.dev/icons?i=js,python,java,cs,c,cpp,css,html,php,typescript,express,flask,nodejs,mongodb,mysql,sqlite,react,nextjs,angular,sass,tailwindcss,bootstrap,svg,qt,electron,npm,dotnet,azure,aws,googlecloud,ubuntu,git,postman,stackoverflow,ae,anaconda,androidstudio,arduino,atom,devto,django,ai,linkedin,md,ps" title="Programming Languages and Tools" align="center" width="100%" alt="You did not get it right?"/>
+<img src="https://skillicons.dev/icons?i=js,python,java,cs,c,cpp,css,html,php,typescript,express,flask,nodejs,mongodb,mysql,sqlite,react,nextjs,angular,sass,tailwindcss,bootstrap,svg,qt,electron,npm,dotnet,azure,aws,googlecloud,docker,git,postman,stackoverflow,ae,anaconda,androidstudio,arduino,atom,devto,django,ai,linkedin,md,ps" title="Programming Languages and Tools" align="center" width="100%" alt="You did not get it right?"/>
 
 </center>
 <hr>
