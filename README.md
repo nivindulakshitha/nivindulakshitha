@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@nivindulakshitha&textBg=false&reversal=false&descAlign=0&animation=twinkling&stroke=010409&descAlignY=0&strokeWidth=0&section=header" width="37%" align="center" alt="You did not get it right?" />
   <br>
   <a href="https://www.nivindu.me" target="_blank">
-  <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/d701062346fa5f33d842e1a026592b1dd8da9fb5/images/portfolio%20banner%20view.png" width="100%" align="center"  alt="You did not get it right?"/>
+  <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/d701062346fa5f33d842e1a026592b1dd8da9fb5/images/portfolio%20banner%20view.png" width="80%" align="center"  alt="You did not get it right?"/>
   </a>
 </p>
 
