@@ -6,9 +6,9 @@
   </a>
 </p
 
-<img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" align="right" height="20%"  alt="You did not get it right?"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" align="left" height="20%"  alt="You did not get it right?"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivindulakshitha&theme=transparent&exclude=CSS,html,Jupyter%20Notebook" align="left"  width="35%" height="35%"  alt="You did not get it right?"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivindulakshitha&theme=transparent&exclude=CSS,html,Jupyter%20Notebook" align="right"  width="35%" height="35%"  alt="You did not get it right?"/>
 
 <br><br><br><br><br><br><br><br><br>
 <hr>
