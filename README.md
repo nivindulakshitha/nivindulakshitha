@@ -11,7 +11,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivindulakshitha&theme=transparent&exclude=CSS,html,Jupyter%20Notebook" width="35%" alt="You did not get it right?"/>
 </p>
-</br></br></br></br></br></br></br></br>
+
 <hr>
 <center>
 
