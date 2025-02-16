@@ -4,7 +4,7 @@
   <a href="https://www.nivindu.me" target="_blank">
   <img src="https://github.com/nivindulakshitha/nivindulakshitha/blob/d701062346fa5f33d842e1a026592b1dd8da9fb5/images/portfolio%20banner%20view.png" width="100%" align="center"  alt="You did not get it right?"/>
   </a>
-</p
+</p>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=nivindulakshitha&cc=transparent&tc=aaa&ic=aaa&bc=transparent" align="left" height="20%"  alt="You did not get it right?"/>
 
