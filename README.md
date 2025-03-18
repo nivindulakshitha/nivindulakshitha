@@ -49,7 +49,7 @@ I’m constantly expanding my skill set, particularly in backend development, AI
 
 ## Top 10 Collaborators
 <div align="center">
-<img src="https://githubcollab.vercel.app/api/crew?username=nivindulakshitha" />
+<img src="https://githubcollab.vercel.app/api/crew?username=nivindulakshitha&excepts=ImgBotApp,tessdata,netlify-demo,Fork-ImageReader" />
 </div>
 
 </br>
